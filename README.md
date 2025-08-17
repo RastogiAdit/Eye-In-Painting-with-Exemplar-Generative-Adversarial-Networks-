@@ -3,6 +3,8 @@ Implemented Eye In-Painting with Exemplar Generative Adversarial Networks - http
 
 results - [ExGAN-results.pdf](./ExGAN-results.pdf)
 
+![Diagram](./diagram.png)
+
 ## Output
 ![Output](./output.png)
 
